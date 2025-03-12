@@ -19,14 +19,15 @@ int main()          // OS가 함수 호출
     - 선택: if, switch
 - for문
 ```
-for (int i = 0; i < 5; i++) {
-	printf("ary[%d]: %d\n", i, ary[i]);
+/* for(초기식; 조건식; 증감식) { } */
+for (int i = 0; i < 10; i++) {
+	printf("iL %d\n", i);
 }
 ```
 - switch문
 ```
-switch(조건식)
-case ():
+switch (조건식)
+case ~:
     break;
 ```
 
