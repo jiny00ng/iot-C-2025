@@ -42,5 +42,17 @@
     <ClCompile Include="pointer6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pointer7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="char.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="char2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="char3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

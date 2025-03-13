@@ -53,7 +53,8 @@ int main() {
     printf("당신의 이름과 나이를 입력하시오: ");
     // (unsigned)sizeof(str): 문자열 입력 시 최대 크기(바이트)를 unsigned로 전달
     // &num: 정수형 변수의 주소를 전달하여 입력값을 저장   
-    scanf_s("%s %d", str, (unsigned)sizeof(str), &num);
+    scanf_s("%s %d", str, (unsigned)sizeof(str), &num);     // 공백을 기준으로 입력이 끊어질 수 있음
+    fgets(str, sizeof(str), stdin);
     printf("당신의 이름은 %s이고 나이는 %d 입니다.", str, num);
 
     return 0;
@@ -62,10 +63,36 @@ int main() {
 
 ## 2일차
 - C언어
-    - 보수법(Complement System)
+3. 보수법(Complement System)
         - 보충 해주는 수 - 컴퓨터 시스템에서 정수의 음수 표현
         - A에 대한 B의 보수 == (A = B + C)
         1. 1의 보수 : 양수의 이진수를 구한 뒤 각 비트를 반전 (+0, -0 발생)
         2. 2의 보수 : 양수의 이진수를 구한 뒤 각 비트를 반전 + 1 -> 단 하나의 0만 존재하여 두개의 0 문제 해결!
-    
-    - 함수 
+```
+#include <stdio.h>
+
+int main() {
+    unsigned int num = 5; // 00000101
+    printf("1의 보수: %u\n", ~num);          // 비트 반전
+    printf("2의 보수: %u\n", (~num) + 1);    // 비트 반전 후 +1
+    return 0;
+}
+```
+4. 함수 
+
+## 3일차 
+- C언어
+5. 포인터 변수 
+    - 주소를 저장할 수 있는 변수
+    - 포인터 주소의 크기는 컴퓨터 환경에 따라 다름 
+        int* p : int 타입(주소 종류) 포인터 변수 선언
+        printf("포인터 변수 p가 가리키는 곳의 값: %d\n", *p);	// * 간접참조 연산자
+```
+int arr[3] = {10, 20, 30};
+int *p = arr;
+
+for (int i = 0; i < 3; i++) {
+    printf("arr[%d] = %d, *(p + %d) = %d\n", i, arr[i], i, *(p + i));
+}
+```
+6. 문자

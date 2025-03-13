@@ -1,31 +1,31 @@
-#include <stdio.h>
-
-void printAry(int* p, int size) {
-    for (int i = 0; i < size; i++) {
-        printf("ary[%d]: %d\n", i, p[i]);
-    }
-}
-
-void inputAry(int* p, int size) {
-    printf("¹è¿­À» ÀÔ·ÂÇÏ½Ã¿À (Á¤¼ö %d°³):\n", size);
-    for (int i = 0; i < size; i++) {
-        printf("ary[%d]: ", i);
-        scanf_s("%d", &p[i]);  // scanf_s´Â º¯¼öÀÇ ÁÖ¼Ò¸¦ ÇÊ¿ä·Î ÇÔ
-    }
-}
-
-int main() {
-    int ary[5] = { 0, };
-    
-    int size = sizeof(ary) / sizeof(ary[0]);
-
-    inputAry(ary, size);     // »ç¿ëÀÚ·ÎºÎÅÍ ¹è¿­ ÀÔ·Â¹Ş±â
-
-    printf("ÀÔ·ÂÇÑ ¹è¿­ >\n");
-    printAry(ary, size);     // ÀÔ·Â¹ŞÀº ¹è¿­ Ãâ·ÂÇÏ±â
-
-    return 0;
-}
+ï»¿//#include <stdio.h>
+//
+//void printAry(int* p, int size) {
+//    for (int i = 0; i < size; i++) {
+//        printf("ary[%d]: %d\n", i, p[i]);
+//    }
+//}
+//
+//void inputAry(int* p, int size) {
+//    printf("ë°°ì—´ì„ ì…ë ¥í•˜ì‹œì˜¤ (ì •ìˆ˜ %dê°œ):\n", size);
+//    for (int i = 0; i < size; i++) {
+//        printf("ary[%d]: ", i);
+//        scanf_s("%d", &p[i]);  // scanf_sëŠ” ë³€ìˆ˜ì˜ ì£¼ì†Œë¥¼ í•„ìš”ë¡œ í•¨
+//    }
+//}
+//
+//int main() {
+//    int ary[5] = { 0, };
+//    
+//    int size = sizeof(ary) / sizeof(ary[0]);
+//
+//    inputAry(ary, size);     // ì‚¬ìš©ìë¡œë¶€í„° ë°°ì—´ ì…ë ¥ë°›ê¸°
+//
+//    printf("ì…ë ¥í•œ ë°°ì—´ >\n");
+//    printAry(ary, size);     // ì…ë ¥ë°›ì€ ë°°ì—´ ì¶œë ¥í•˜ê¸°
+//
+//    return 0;
+//}
 
 
 
