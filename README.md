@@ -15,22 +15,22 @@ int main()          // OS가 함수 호출
 ```
 
 1. 제어문
-    - 반복: for, while
-        - for문
+- 반복: for, while
+    - for문
 ```
 /* for(초기식; 조건식; 증감식) { } */
 for (int i = 0; i < 10; i++) {
 	printf("i: %d\n", i);
 }
 ```
-        - while문
+- while문
 ```
 while (참){
     출력;
 }
 ```
-    - 선택: if, switch
-        - switch문
+- 선택: if, switch
+    - switch문
 ```
 switch (조건식)
 case ~:
