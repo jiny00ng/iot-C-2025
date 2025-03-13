@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\C\\Day1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32D61E8B-9E87-4265-A7FA-5C8C6CEB80B3}|Day1.vcxproj|C:\\Work\\C\\Day1\\scanf4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32D61E8B-9E87-4265-A7FA-5C8C6CEB80B3}|Day1.vcxproj|solutionrelative:scanf4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D61E8B-9E87-4265-A7FA-5C8C6CEB80B3}|Day1.vcxproj|C:\\Work\\C\\Day1\\scanf3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32D61E8B-9E87-4265-A7FA-5C8C6CEB80B3}|Day1.vcxproj|solutionrelative:scanf3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "scanf4.c",
+              "DocumentMoniker": "C:\\Work\\C\\Day1\\scanf4.c",
+              "RelativeDocumentMoniker": "scanf4.c",
+              "ToolTip": "C:\\Work\\C\\Day1\\scanf4.c",
+              "RelativeToolTip": "scanf4.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-12T00:16:00.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "scanf3.c",
+              "DocumentMoniker": "C:\\Work\\C\\Day1\\scanf3.c",
+              "RelativeDocumentMoniker": "scanf3.c",
+              "ToolTip": "C:\\Work\\C\\Day1\\scanf3.c",
+              "RelativeToolTip": "scanf3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-11T07:58:39.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

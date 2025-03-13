@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\C\\Day3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02CE5E74-B9A1-490B-B738-914BCA6820FD}|Day3.vcxproj|C:\\Work\\C\\Day3\\array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02CE5E74-B9A1-490B-B738-914BCA6820FD}|Day3.vcxproj|solutionrelative:array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CE5E74-B9A1-490B-B738-914BCA6820FD}|Day3.vcxproj|C:\\Work\\C\\Day3\\pointer2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02CE5E74-B9A1-490B-B738-914BCA6820FD}|Day3.vcxproj|solutionrelative:pointer2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CE5E74-B9A1-490B-B738-914BCA6820FD}|Day3.vcxproj|C:\\Work\\C\\Day3\\pointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02CE5E74-B9A1-490B-B738-914BCA6820FD}|Day3.vcxproj|solutionrelative:pointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CE5E74-B9A1-490B-B738-914BCA6820FD}|Day3.vcxproj|C:\\Work\\C\\Day3\\pointer6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02CE5E74-B9A1-490B-B738-914BCA6820FD}|Day3.vcxproj|solutionrelative:pointer6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CE5E74-B9A1-490B-B738-914BCA6820FD}|Day3.vcxproj|C:\\Work\\C\\Day3\\array2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02CE5E74-B9A1-490B-B738-914BCA6820FD}|Day3.vcxproj|solutionrelative:array2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CE5E74-B9A1-490B-B738-914BCA6820FD}|Day3.vcxproj|C:\\Work\\C\\Day3\\array3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02CE5E74-B9A1-490B-B738-914BCA6820FD}|Day3.vcxproj|solutionrelative:array3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CE5E74-B9A1-490B-B738-914BCA6820FD}|Day3.vcxproj|C:\\Work\\C\\Day3\\pointer3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02CE5E74-B9A1-490B-B738-914BCA6820FD}|Day3.vcxproj|solutionrelative:pointer3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CE5E74-B9A1-490B-B738-914BCA6820FD}|Day3.vcxproj|C:\\Work\\C\\Day3\\pointer5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02CE5E74-B9A1-490B-B738-914BCA6820FD}|Day3.vcxproj|solutionrelative:pointer5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CE5E74-B9A1-490B-B738-914BCA6820FD}|Day3.vcxproj|C:\\Work\\C\\Day3\\pointer4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02CE5E74-B9A1-490B-B738-914BCA6820FD}|Day3.vcxproj|solutionrelative:pointer4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pointer6.c",
+              "DocumentMoniker": "C:\\Work\\C\\Day3\\pointer6.c",
+              "RelativeDocumentMoniker": "pointer6.c",
+              "ToolTip": "C:\\Work\\C\\Day3\\pointer6.c",
+              "RelativeToolTip": "pointer6.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-13T05:46:32.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pointer5.c",
+              "DocumentMoniker": "C:\\Work\\C\\Day3\\pointer5.c",
+              "RelativeDocumentMoniker": "pointer5.c",
+              "ToolTip": "C:\\Work\\C\\Day3\\pointer5.c",
+              "RelativeToolTip": "pointer5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-13T05:16:15.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "pointer4.c",
+              "DocumentMoniker": "C:\\Work\\C\\Day3\\pointer4.c",
+              "RelativeDocumentMoniker": "pointer4.c",
+              "ToolTip": "C:\\Work\\C\\Day3\\pointer4.c",
+              "RelativeToolTip": "pointer4.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-13T04:46:30.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pointer3.c",
+              "DocumentMoniker": "C:\\Work\\C\\Day3\\pointer3.c",
+              "RelativeDocumentMoniker": "pointer3.c",
+              "ToolTip": "C:\\Work\\C\\Day3\\pointer3.c",
+              "RelativeToolTip": "pointer3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-13T03:21:04.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pointer2.c",
+              "DocumentMoniker": "C:\\Work\\C\\Day3\\pointer2.c",
+              "RelativeDocumentMoniker": "pointer2.c",
+              "ToolTip": "C:\\Work\\C\\Day3\\pointer2.c",
+              "RelativeToolTip": "pointer2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-13T03:01:45.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pointer.c",
+              "DocumentMoniker": "C:\\Work\\C\\Day3\\pointer.c",
+              "RelativeDocumentMoniker": "pointer.c",
+              "ToolTip": "C:\\Work\\C\\Day3\\pointer.c",
+              "RelativeToolTip": "pointer.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-13T02:20:39.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "array3.c",
+              "DocumentMoniker": "C:\\Work\\C\\Day3\\array3.c",
+              "RelativeDocumentMoniker": "array3.c",
+              "ToolTip": "C:\\Work\\C\\Day3\\array3.c",
+              "RelativeToolTip": "array3.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-13T01:37:42.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "array2.c",
+              "DocumentMoniker": "C:\\Work\\C\\Day3\\array2.c",
+              "RelativeDocumentMoniker": "array2.c",
+              "ToolTip": "C:\\Work\\C\\Day3\\array2.c",
+              "RelativeToolTip": "array2.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-13T01:04:26.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "array.c",
+              "DocumentMoniker": "C:\\Work\\C\\Day3\\array.c",
+              "RelativeDocumentMoniker": "array.c",
+              "ToolTip": "C:\\Work\\C\\Day3\\array.c",
+              "RelativeToolTip": "array.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-13T00:18:38.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
