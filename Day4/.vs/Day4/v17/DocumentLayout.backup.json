@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{40FCFEEF-E7A0-4CAB-95D5-1C7890227920}|Day4.vcxproj|solutionrelative:arrayPointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40FCFEEF-E7A0-4CAB-95D5-1C7890227920}|Day4.vcxproj|C:\\source\\iot-C-2025\\Day4\\dpointer2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40FCFEEF-E7A0-4CAB-95D5-1C7890227920}|Day4.vcxproj|solutionrelative:dpointer2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{40FCFEEF-E7A0-4CAB-95D5-1C7890227920}|Day4.vcxproj|C:\\source\\iot-C-2025\\Day4\\pointArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{40FCFEEF-E7A0-4CAB-95D5-1C7890227920}|Day4.vcxproj|solutionrelative:pointArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40FCFEEF-E7A0-4CAB-95D5-1C7890227920}|Day4.vcxproj|C:\\source\\iot-C-2025\\Day4\\pointerArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40FCFEEF-E7A0-4CAB-95D5-1C7890227920}|Day4.vcxproj|solutionrelative:pointerArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40FCFEEF-E7A0-4CAB-95D5-1C7890227920}|Day4.vcxproj|C:\\source\\iot-C-2025\\Day4\\dpointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{40FCFEEF-E7A0-4CAB-95D5-1C7890227920}|Day4.vcxproj|solutionrelative:dpointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40FCFEEF-E7A0-4CAB-95D5-1C7890227920}|Day4.vcxproj|C:\\source\\iot-C-2025\\Day4\\arrary2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40FCFEEF-E7A0-4CAB-95D5-1C7890227920}|Day4.vcxproj|solutionrelative:arrary2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{40FCFEEF-E7A0-4CAB-95D5-1C7890227920}|Day4.vcxproj|C:\\source\\iot-C-2025\\Day4\\dpointer2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40FCFEEF-E7A0-4CAB-95D5-1C7890227920}|Day4.vcxproj|solutionrelative:dpointer2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40FCFEEF-E7A0-4CAB-95D5-1C7890227920}|Day4.vcxproj|C:\\source\\iot-C-2025\\Day4\\pointerArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40FCFEEF-E7A0-4CAB-95D5-1C7890227920}|Day4.vcxproj|solutionrelative:pointerArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{40FCFEEF-E7A0-4CAB-95D5-1C7890227920}|Day4.vcxproj|C:\\source\\iot-C-2025\\Day4\\arrary2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40FCFEEF-E7A0-4CAB-95D5-1C7890227920}|Day4.vcxproj|solutionrelative:arrary2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40FCFEEF-E7A0-4CAB-95D5-1C7890227920}|Day4.vcxproj|C:\\source\\iot-C-2025\\Day4\\value2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -92,20 +92,20 @@
               "RelativeDocumentMoniker": "arrayPointer.c",
               "ToolTip": "C:\\source\\iot-C-2025\\Day4\\arrayPointer.c",
               "RelativeToolTip": "arrayPointer.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-14T07:50:44.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "dpointer2.c",
               "DocumentMoniker": "C:\\source\\iot-C-2025\\Day4\\dpointer2.c",
               "RelativeDocumentMoniker": "dpointer2.c",
               "ToolTip": "C:\\source\\iot-C-2025\\Day4\\dpointer2.c",
               "RelativeToolTip": "dpointer2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-14T07:44:12.514Z",
               "EditorCaption": ""
@@ -125,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "pointerArray.c",
               "DocumentMoniker": "C:\\source\\iot-C-2025\\Day4\\pointerArray.c",
               "RelativeDocumentMoniker": "pointerArray.c",
@@ -138,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "pointArray.c",
               "DocumentMoniker": "C:\\source\\iot-C-2025\\Day4\\pointArray.c",
               "RelativeDocumentMoniker": "pointArray.c",
@@ -151,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "arrary2.c",
               "DocumentMoniker": "C:\\source\\iot-C-2025\\Day4\\arrary2.c",
               "RelativeDocumentMoniker": "arrary2.c",
@@ -159,8 +159,7 @@
               "RelativeToolTip": "arrary2.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-14T06:46:52.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T06:46:52.145Z"
             },
             {
               "$type": "Document",
@@ -172,8 +171,7 @@
               "RelativeToolTip": "array.c",
               "ViewState": "AgIAAB4AAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-14T05:53:45.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T05:53:45.371Z"
             },
             {
               "$type": "Document",
@@ -185,8 +183,7 @@
               "RelativeToolTip": "value2.c",
               "ViewState": "AgIAAAIAAAAAAAAAAAAYwB0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-14T05:13:23.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T05:13:23.873Z"
             },
             {
               "$type": "Document",
@@ -198,8 +195,7 @@
               "RelativeToolTip": "value.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-14T04:57:10.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T04:57:10.016Z"
             },
             {
               "$type": "Document",
@@ -211,8 +207,7 @@
               "RelativeToolTip": "strcmp.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-14T03:20:02.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T03:20:02.063Z"
             },
             {
               "$type": "Document",
@@ -224,8 +219,7 @@
               "RelativeToolTip": "strcat.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-14T03:14:10.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T03:14:10.935Z"
             },
             {
               "$type": "Document",
@@ -237,8 +231,7 @@
               "RelativeToolTip": "strlen.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-14T03:10:32.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T03:10:32.849Z"
             },
             {
               "$type": "Document",
@@ -250,8 +243,7 @@
               "RelativeToolTip": "strcpy.c",
               "ViewState": "AgIAAAgAAAAAAAAAAAAYwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-14T02:18:14.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T02:18:14.583Z"
             },
             {
               "$type": "Document",
@@ -263,8 +255,7 @@
               "RelativeToolTip": "string4.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-14T02:04:55.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T02:04:55.663Z"
             },
             {
               "$type": "Document",
@@ -276,8 +267,7 @@
               "RelativeToolTip": "string3.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-14T01:29:46.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T01:29:46.2Z"
             },
             {
               "$type": "Document",
