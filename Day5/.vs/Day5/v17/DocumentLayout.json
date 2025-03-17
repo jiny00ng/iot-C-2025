@@ -76,7 +76,7 @@
               "RelativeDocumentMoniker": "stArray.cpp",
               "ToolTip": "C:\\source\\iot-C-2025\\Day5\\stArray.cpp",
               "RelativeToolTip": "stArray.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-17T07:50:42.649Z",
               "EditorCaption": ""
@@ -91,8 +91,7 @@
               "RelativeToolTip": "stpointer.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-17T07:25:44.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T07:25:44.617Z"
             },
             {
               "$type": "Document",
@@ -104,8 +103,7 @@
               "RelativeToolTip": "struct6.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwB4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-17T06:42:46.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T06:42:46.147Z"
             },
             {
               "$type": "Document",
@@ -117,8 +115,7 @@
               "RelativeToolTip": "struct5.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-17T06:15:06.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T06:15:06.062Z"
             },
             {
               "$type": "Document",
@@ -166,8 +163,7 @@
               "RelativeToolTip": "malloc3.c",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-17T02:36:45.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T02:36:45.425Z"
             },
             {
               "$type": "Document",
