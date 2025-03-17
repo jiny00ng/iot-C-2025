@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\source\\iot-C-2025\\Day5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5A37A95-882D-4724-9808-E9ED8A6F9AF8}|Day5.vcxproj|C:\\source\\iot-C-2025\\Day5\\struct6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F5A37A95-882D-4724-9808-E9ED8A6F9AF8}|Day5.vcxproj|solutionrelative:struct6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F5A37A95-882D-4724-9808-E9ED8A6F9AF8}|Day5.vcxproj|C:\\source\\iot-C-2025\\Day5\\stpointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5A37A95-882D-4724-9808-E9ED8A6F9AF8}|Day5.vcxproj|solutionrelative:stpointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5A37A95-882D-4724-9808-E9ED8A6F9AF8}|Day5.vcxproj|C:\\source\\iot-C-2025\\Day5\\struct4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F5A37A95-882D-4724-9808-E9ED8A6F9AF8}|Day5.vcxproj|solutionrelative:struct4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A37A95-882D-4724-9808-E9ED8A6F9AF8}|Day5.vcxproj|C:\\source\\iot-C-2025\\Day5\\struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F5A37A95-882D-4724-9808-E9ED8A6F9AF8}|Day5.vcxproj|solutionrelative:struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F5A37A95-882D-4724-9808-E9ED8A6F9AF8}|Day5.vcxproj|C:\\source\\iot-C-2025\\Day5\\struct2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F5A37A95-882D-4724-9808-E9ED8A6F9AF8}|Day5.vcxproj|solutionrelative:struct2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F5A37A95-882D-4724-9808-E9ED8A6F9AF8}|Day5.vcxproj|C:\\source\\iot-C-2025\\Day5\\struct6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5A37A95-882D-4724-9808-E9ED8A6F9AF8}|Day5.vcxproj|solutionrelative:struct6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5A37A95-882D-4724-9808-E9ED8A6F9AF8}|Day5.vcxproj|C:\\source\\iot-C-2025\\Day5\\struct3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F5A37A95-882D-4724-9808-E9ED8A6F9AF8}|Day5.vcxproj|solutionrelative:struct3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A37A95-882D-4724-9808-E9ED8A6F9AF8}|Day5.vcxproj|C:\\source\\iot-C-2025\\Day5\\struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5A37A95-882D-4724-9808-E9ED8A6F9AF8}|Day5.vcxproj|solutionrelative:struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5A37A95-882D-4724-9808-E9ED8A6F9AF8}|Day5.vcxproj|C:\\source\\iot-C-2025\\Day5\\struct5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -72,7 +76,7 @@
               "RelativeDocumentMoniker": "struct4.cpp",
               "ToolTip": "C:\\source\\iot-C-2025\\Day5\\struct4.cpp",
               "RelativeToolTip": "struct4.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-17T06:03:42.839Z",
               "IsPinned": true,
@@ -81,19 +85,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "stpointer.cpp",
+              "DocumentMoniker": "C:\\source\\iot-C-2025\\Day5\\stpointer.cpp",
+              "RelativeDocumentMoniker": "stpointer.cpp",
+              "ToolTip": "C:\\source\\iot-C-2025\\Day5\\stpointer.cpp",
+              "RelativeToolTip": "stpointer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T07:25:44.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "struct6.cpp",
               "DocumentMoniker": "C:\\source\\iot-C-2025\\Day5\\struct6.cpp",
               "RelativeDocumentMoniker": "struct6.cpp",
-              "ToolTip": "C:\\source\\iot-C-2025\\Day5\\struct6.cpp*",
-              "RelativeToolTip": "struct6.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA5AAAAAAAAAA==",
+              "ToolTip": "C:\\source\\iot-C-2025\\Day5\\struct6.cpp",
+              "RelativeToolTip": "struct6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-17T06:42:46.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "struct5.cpp",
               "DocumentMoniker": "C:\\source\\iot-C-2025\\Day5\\struct5.cpp",
               "RelativeDocumentMoniker": "struct5.cpp",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "struct2.cpp",
               "DocumentMoniker": "C:\\source\\iot-C-2025\\Day5\\struct2.cpp",
               "RelativeDocumentMoniker": "struct2.cpp",
@@ -132,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "struct.cpp",
               "DocumentMoniker": "C:\\source\\iot-C-2025\\Day5\\struct.cpp",
               "RelativeDocumentMoniker": "struct.cpp",
@@ -145,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "malloc3.c",
               "DocumentMoniker": "C:\\source\\iot-C-2025\\Day5\\malloc3.c",
               "RelativeDocumentMoniker": "malloc3.c",
@@ -158,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "malloc2.c",
               "DocumentMoniker": "C:\\source\\iot-C-2025\\Day5\\malloc2.c",
               "RelativeDocumentMoniker": "malloc2.c",
@@ -171,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "malloc.c",
               "DocumentMoniker": "C:\\source\\iot-C-2025\\Day5\\malloc.c",
               "RelativeDocumentMoniker": "malloc.c",
@@ -184,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "voidpointer3.c",
               "DocumentMoniker": "C:\\source\\iot-C-2025\\Day5\\voidpointer3.c",
               "RelativeDocumentMoniker": "voidpointer3.c",
@@ -197,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "voidpointer2.c",
               "DocumentMoniker": "C:\\source\\iot-C-2025\\Day5\\voidpointer2.c",
               "RelativeDocumentMoniker": "voidpointer2.c",
@@ -210,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "voidpointer.c",
               "DocumentMoniker": "C:\\source\\iot-C-2025\\Day5\\voidpointer.c",
               "RelativeDocumentMoniker": "voidpointer.c",
@@ -223,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "main.c",
               "DocumentMoniker": "C:\\source\\iot-C-2025\\Day5\\main.c",
               "RelativeDocumentMoniker": "main.c",

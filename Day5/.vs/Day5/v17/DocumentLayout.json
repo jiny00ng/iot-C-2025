@@ -79,8 +79,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-17T06:03:42.839Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -90,7 +89,7 @@
               "RelativeDocumentMoniker": "stpointer.cpp",
               "ToolTip": "C:\\source\\iot-C-2025\\Day5\\stpointer.cpp",
               "RelativeToolTip": "stpointer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-17T07:25:44.617Z",
               "EditorCaption": ""
@@ -105,8 +104,7 @@
               "RelativeToolTip": "struct6.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-17T06:42:46.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T06:42:46.147Z"
             },
             {
               "$type": "Document",
@@ -118,8 +116,7 @@
               "RelativeToolTip": "struct5.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-17T06:15:06.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T06:15:06.062Z"
             },
             {
               "$type": "Document",
@@ -131,8 +128,7 @@
               "RelativeToolTip": "struct3.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAYwCEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-17T05:46:41.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T05:46:41.78Z"
             },
             {
               "$type": "Document",
@@ -144,8 +140,7 @@
               "RelativeToolTip": "struct2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-17T05:16:16.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T05:16:16.82Z"
             },
             {
               "$type": "Document",
@@ -157,8 +152,7 @@
               "RelativeToolTip": "struct.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAYwB4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-17T03:18:06.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T03:18:06.982Z"
             },
             {
               "$type": "Document",
@@ -170,8 +164,7 @@
               "RelativeToolTip": "malloc3.c",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-17T02:36:45.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T02:36:45.425Z"
             },
             {
               "$type": "Document",
@@ -183,8 +176,7 @@
               "RelativeToolTip": "malloc2.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-17T02:17:27.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T02:17:27.64Z"
             },
             {
               "$type": "Document",
@@ -196,8 +188,7 @@
               "RelativeToolTip": "malloc.c",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-17T01:42:45.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T01:42:45.234Z"
             },
             {
               "$type": "Document",
@@ -209,8 +200,7 @@
               "RelativeToolTip": "voidpointer3.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-17T01:32:08.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T01:32:08.356Z"
             },
             {
               "$type": "Document",
@@ -222,8 +212,7 @@
               "RelativeToolTip": "voidpointer2.c",
               "ViewState": "AgIAADQAAAAAAAAAAAAqwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-17T01:18:24.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T01:18:24.961Z"
             },
             {
               "$type": "Document",
@@ -235,8 +224,7 @@
               "RelativeToolTip": "voidpointer.c",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-17T01:19:30.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T01:19:30.235Z"
             },
             {
               "$type": "Document",
@@ -248,8 +236,7 @@
               "RelativeToolTip": "main.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-17T00:23:32.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T00:23:32.864Z"
             }
           ]
         }
